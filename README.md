@@ -14,7 +14,7 @@
 * [Ackowledgements](#acknowledgements)
 * [Contact](#contact)
 
-## General Information\
+## General Information
 - What problem does the project intend to solve?
 - What is the purpose of your project?
 - Why did you undertake this project?
